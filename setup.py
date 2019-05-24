@@ -1,5 +1,5 @@
 from setuptools import setup
-from piezo import __version__
+from gasta import __version__
 
 setup(
     name='gasta',
